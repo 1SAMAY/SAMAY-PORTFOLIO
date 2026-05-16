@@ -2,11 +2,6 @@
 
 Personal portfolio website for **Samay Dudharejiya** built with React, TypeScript, Tailwind CSS, Framer Motion, GSAP, and Vite.
 
-## Live Demo
-
-View the live site here:
-
-- [Live Demo](https://project-goal-create-a-modern-futuristic-n4ssf7m4s.vercel.app)
 
 ### Demo Preview
 
