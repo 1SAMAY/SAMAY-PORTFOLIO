@@ -8,6 +8,11 @@ View the live site here:
 
 - [Live Demo](https://project-goal-create-a-modern-futuristic-n4ssf7m4s.vercel.app)
 
+### Demo Preview
+
+[![Live Demo Preview](./public/Untitled-design.gif)](https://project-goal-create-a-modern-futuristic-n4ssf7m4s.vercel.app)
+
+Click the preview above to open the live site.
 ## Overview
 
 This portfolio is a premium single-page experience designed to showcase Samay's work, GitHub projects, resume, and contact details with smooth motion and a dark editorial style.
@@ -101,4 +106,3 @@ The resume is included in the site and can be downloaded directly from the top n
 
 - Email: Samay4932@gmail.com
 - Role: Full Stack Developer (Ongoing)
-

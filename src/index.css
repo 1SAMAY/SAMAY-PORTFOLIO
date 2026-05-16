@@ -120,6 +120,13 @@ body::before {
   background-size: 24px 24px;
 }
 
+.video-sharpness {
+  filter: saturate(1.18) contrast(1.08) brightness(0.96);
+  transform-origin: center center;
+  backface-visibility: hidden;
+  will-change: transform, filter;
+}
+
 .animate-scroll-down {
   animation: scroll-down 1.5s ease-in-out infinite;
 }
